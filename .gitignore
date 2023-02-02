@@ -2,3 +2,4 @@ venv/
 venvps/
 *.pyc
 melhousing.egg-info/
+.vscode/
