@@ -1,0 +1,501 @@
+Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+Abbotsford,68 Studley St,2,h,,SS,Jellis,3/9/2016,2.5,3067,2,1,1,126,,,Yarra City Council,-37.8014,144.9958,Northern Metropolitan,4019
+Abbotsford,85 Turner St,2,h,1480000,S,Biggin,3/12/2016,2.5,3067,2,1,1,202,,,Yarra City Council,-37.7996,144.9984,Northern Metropolitan,4019
+Abbotsford,25 Bloomburg St,2,h,1035000,S,Biggin,4/2/2016,2.5,3067,2,1,0,156,79,1900,Yarra City Council,-37.8079,144.9934,Northern Metropolitan,4019
+Abbotsford,18/659 Victoria St,3,u,,VB,Rounds,4/2/2016,2.5,3067,3,2,1,0,,,Yarra City Council,-37.8114,145.0116,Northern Metropolitan,4019
+Abbotsford,5 Charles St,3,h,1465000,SP,Biggin,4/3/2017,2.5,3067,3,2,0,134,150,1900,Yarra City Council,-37.8093,144.9944,Northern Metropolitan,4019
+Abbotsford,40 Federation La,3,h,850000,PI,Biggin,4/3/2017,2.5,3067,3,2,1,94,,,Yarra City Council,-37.7969,144.9969,Northern Metropolitan,4019
+Abbotsford,55a Park St,4,h,1600000,VB,Nelson,4/6/2016,2.5,3067,3,1,2,120,142,2014,Yarra City Council,-37.8072,144.9941,Northern Metropolitan,4019
+Abbotsford,16 Maugie St,4,h,,SN,Nelson,6/8/2016,2.5,3067,3,2,2,400,220,2006,Yarra City Council,-37.7965,144.9965,Northern Metropolitan,4019
+Abbotsford,53 Turner St,2,h,,S,Biggin,6/8/2016,2.5,3067,4,1,2,201,,1900,Yarra City Council,-37.7995,144.9974,Northern Metropolitan,4019
+Abbotsford,99 Turner St,2,h,,S,Collins,6/8/2016,2.5,3067,3,2,1,202,,1900,Yarra City Council,-37.7996,144.9989,Northern Metropolitan,4019
+Abbotsford,129 Charles St,2,h,941000,S,Jellis,7/5/2016,2.5,3067,2,1,0,181,,,Yarra City Council,-37.8041,144.9953,Northern Metropolitan,4019
+Abbotsford,124 Yarra St,3,h,1876000,S,Nelson,7/5/2016,2.5,3067,4,2,0,245,210,1910,Yarra City Council,-37.8024,144.9993,Northern Metropolitan,4019
+Abbotsford,121/56 Nicholson St,2,u,,PI,Biggin,7/11/2016,2.5,3067,2,2,1,4292,82,2009,Yarra City Council,-37.8078,144.9965,Northern Metropolitan,4019
+Abbotsford,17 Raphael St,4,h,,W,Biggin,7/11/2016,2.5,3067,6,2,0,230,147,1860,Yarra City Council,-37.8066,144.9936,Northern Metropolitan,4019
+Abbotsford,98 Charles St,2,h,1636000,S,Nelson,8/10/2016,2.5,3067,2,1,2,256,107,1890,Yarra City Council,-37.806,144.9954,Northern Metropolitan,4019
+Abbotsford,217 Langridge St,3,h,1000000,S,Jellis,8/10/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,18a Mollison St,2,t,745000,S,Jellis,8/10/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,6/241 Nicholson St,1,u,300000,S,Biggin,8/10/2016,2.5,3067,1,1,1,0,,,Yarra City Council,-37.8008,144.9973,Northern Metropolitan,4019
+Abbotsford,10 Valiant St,2,h,1097000,S,Biggin,8/10/2016,2.5,3067,3,1,2,220,75,1900,Yarra City Council,-37.801,144.9989,Northern Metropolitan,4019
+Abbotsford,403/609 Victoria St,2,u,542000,S,Dingle,8/10/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,2 Rich St,2,h,,SP,Biggin,10/12/2016,2.5,3067,2,1,1,176,80,1925,Yarra City Council,-37.7998,144.9972,Northern Metropolitan,4019
+Abbotsford,25/84 Trenerry Cr,2,u,760000,SP,Biggin,10/12/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,106/119 Turner St,1,u,481000,SP,Purplebricks,10/12/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,411/8 Grosvenor St,2,u,700000,VB,Jellis,12/11/2016,2.5,3067,2,2,1,0,,,Yarra City Council,-37.811,145.0067,Northern Metropolitan,4019
+Abbotsford,40 Nicholson St,3,h,1350000,VB,Nelson,12/11/2016,2.5,3067,3,2,2,214,190,2005,Yarra City Council,-37.8085,144.9964,Northern Metropolitan,4019
+Abbotsford,123/56 Nicholson St,2,u,750000,S,Biggin,12/11/2016,2.5,3067,2,2,1,0,94,2009,Yarra City Council,-37.8078,144.9965,Northern Metropolitan,4019
+Abbotsford,22 Park St,4,h,1985000,S,Biggin,12/11/2016,2.5,3067,,,,,,,Yarra City Council,-37.8084,144.9942,Northern Metropolitan,4019
+Abbotsford,13/84 Trenerry Cr,1,u,500000,S,Biggin,12/11/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,45 William St,2,h,1172500,S,Biggin,13/8/2016,2.5,3067,2,1,1,195,,,Yarra City Council,-37.8084,144.9973,Northern Metropolitan,4019
+Abbotsford,7/20 Abbotsford St,1,u,441000,SP,Greg,14/5/2016,2.5,3067,1,1,1,0,,,Yarra City Council,-37.8016,144.9988,Northern Metropolitan,4019
+Abbotsford,16 William St,2,h,1310000,S,Jellis,15/10/2016,2.5,3067,2,1,2,238,97,1890,Yarra City Council,-37.809,144.9976,Northern Metropolitan,4019
+Abbotsford,16/11 Nicholson St,3,u,,PI,Philip,16/4/2016,2.5,3067,3,2,2,0,129,2010,Yarra City Council,-37.8093,144.9959,Northern Metropolitan,4019
+Abbotsford,42 Henry St,3,h,1200000,S,Jellis,16/7/2016,2.5,3067,3,2,1,113,110,1880,Yarra City Council,-37.8056,144.993,Northern Metropolitan,4019
+Abbotsford,250 Langridge St,2,t,847000,S,Jellis,16/7/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,16b Mollison St,2,h,,PI,Biggin,16/7/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,78 Yarra St,3,h,1176500,S,LITTLE,16/7/2016,2.5,3067,2,1,1,138,105,1890,Yarra City Council,-37.8021,144.9965,Northern Metropolitan,4019
+Abbotsford,196 Nicholson St,3,h,955000,S,Collins,17/9/2016,2.5,3067,3,1,0,183,,,Yarra City Council,-37.8022,144.9975,Northern Metropolitan,4019
+Abbotsford,42 Valiant St,2,h,890000,S,Biggin,17/9/2016,2.5,3067,2,1,1,150,73,1985,Yarra City Council,-37.8011,145.0004,Northern Metropolitan,4019
+Abbotsford,3/72 Charles St,4,h,1330000,PI,Kay,18/3/2017,2.5,3067,4,2,2,780,135,1900,Yarra City Council,-37.8073,144.9952,Northern Metropolitan,4019
+Abbotsford,1/1 Mayfield St,3,h,,SP,Nelson,18/3/2017,2.5,3067,3,2,1,119,167,2005,Yarra City Council,-37.8082,144.9999,Northern Metropolitan,4019
+Abbotsford,13/11 Nicholson St,3,t,900000,S,Beller,18/3/2017,2.5,3067,3,2,2,0,,2010,Yarra City Council,-37.8093,144.9959,Northern Metropolitan,4019
+Abbotsford,138/56 Nicholson St,3,u,1090000,S,Jellis,18/3/2017,2.5,3067,3,2,2,4290,27,,Yarra City Council,-37.8078,144.9965,Northern Metropolitan,4019
+Abbotsford,6/219 Nicholson St,2,u,500000,S,Collins,18/6/2016,2.5,3067,2,1,1,0,60,1970,Yarra City Council,-37.8015,144.9972,Northern Metropolitan,4019
+Abbotsford,52a William St,2,h,1100000,PI,Biggin,18/6/2016,2.5,3067,2,2,1,124,135,2013,Yarra City Council,-37.8079,144.9977,Northern Metropolitan,4019
+Abbotsford,49 Park St,2,h,1315000,S,Marshall,19/11/2016,2.5,3067,2,1,0,147,85,1900,Yarra City Council,-37.808,144.994,Northern Metropolitan,4019
+Abbotsford,65/80 Trenerry Cr,1,u,480000,S,Biggin,19/11/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,119/52 Nicholson St,1,u,423500,S,hockingstuart,22/5/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,8b Park St,4,h,,PI,Biggin,22/5/2016,2.5,3067,,,,,,,Yarra City Council,-37.8092,144.9941,Northern Metropolitan,4019
+Abbotsford,5/20 Abbotsford St,1,u,426000,SP,Greg,22/8/2016,2.5,3067,1,1,1,0,,,Yarra City Council,-37.8016,144.9988,Northern Metropolitan,4019
+Abbotsford,48 Abbotsford St,3,h,1447500,PI,Nelson,22/8/2016,2.5,3067,3,3,1,166,174,2012,Yarra City Council,-37.8017,145.0001,Northern Metropolitan,4019
+Abbotsford,116/56 Nicholson St,1,u,457000,S,Jellis,22/8/2016,2.5,3067,1,1,1,0,50,,Yarra City Council,-37.8078,144.9965,Northern Metropolitan,4019
+Abbotsford,159 Park St,2,h,1135000,S,Nelson,22/8/2016,2.5,3067,2,2,2,98,128,1920,Yarra City Council,-37.8005,144.9952,Northern Metropolitan,4019
+Abbotsford,49/84 Trenerry Cr,2,h,700000,S,Biggin,23/4/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,31 Turner St,4,h,1542000,S,Collins,24/9/2016,2.5,3067,4,3,1,0,,,Yarra City Council,-37.7994,144.9965,Northern Metropolitan,4019
+Abbotsford,17/1 Abbot St,3,t,962000,SP,Jellis,25/2/2017,2.5,3067,,,,,,,Yarra City Council,-37.7972,144.9969,Northern Metropolitan,4019
+Abbotsford,166 Gipps St,3,h,1290000,S,Biggin,25/2/2017,2.5,3067,3,2,2,147,18,,Yarra City Council,-37.805,144.9943,Northern Metropolitan,4019
+Abbotsford,60 Stafford St,3,h,1290000,S,Biggin,25/2/2017,2.5,3067,3,1,1,168,124,1950,Yarra City Council,-37.8007,144.9958,Northern Metropolitan,4019
+Abbotsford,11/205 Gipps St,1,u,470000,S,Nelson,26/7/2016,2.5,3067,1,1,1,0,50,2013,Yarra City Council,-37.8055,144.9961,Northern Metropolitan,4019
+Abbotsford,47 Studley St,2,h,1180000,S,Jellis,27/11/2016,2.5,3067,2,1,0,162,91,1900,Yarra City Council,-37.8016,144.9956,Northern Metropolitan,4019
+Abbotsford,45 Yarra St,3,h,1195000,SP,Jellis,27/11/2016,2.5,3067,3,2,1,120,128,1998,Yarra City Council,-37.8022,144.9954,Northern Metropolitan,4019
+Abbotsford,4/328 Johnston St,2,u,,PI,Biggin,28/5/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,200 Nicholson St,2,h,1012500,S,Nelson,28/5/2016,2.5,3067,2,1,0,182,82,1900,Yarra City Council,-37.8021,144.9976,Northern Metropolitan,4019
+Abbotsford,82/84 Trenerry Cr,2,u,970000,SP,Biggin,28/5/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Abbotsford,27 Charles St,2,h,1030000,S,Biggin,30/7/2016,2.5,3067,2,1,1,172,81,1930,Yarra City Council,-37.8086,144.9946,Northern Metropolitan,4019
+Abbotsford,22 Park St,4,h,,W,Biggin,30/7/2016,2.5,3067,,,,,,,Yarra City Council,-37.8084,144.9942,Northern Metropolitan,4019
+Abbotsford,40/80 Trenerry Cr,3,h,927000,S,Biggin,30/7/2016,2.5,3067,,,,,,,Yarra City Council,,,Northern Metropolitan,4019
+Airport West,154 Halsey Rd,3,t,840000,PI,Nelson,3/9/2016,13.5,3042,3,2,1,303,225,2016,Moonee Valley City Council,-37.718,144.878,Western Metropolitan,3464
+Airport West,50 Bedford St,3,h,730000,VB,Nelson,3/12/2016,13.5,3042,3,2,1,0,145,1965,Moonee Valley City Council,-37.7203,144.8755,Western Metropolitan,3464
+Airport West,50 Bedford St,3,h,770000,SP,Nelson,4/3/2017,13.5,3042,3,2,1,0,145,1965,Moonee Valley City Council,-37.7203,144.8755,Western Metropolitan,3464
+Airport West,5 Harrington Rd,3,h,,S,Brad,4/3/2017,13.5,3042,3,1,1,580,114,1960,Moonee Valley City Council,-37.7235,144.8736,Western Metropolitan,3464
+Airport West,23 Hart St,2,h,603000,S,Nelson,4/3/2017,13.5,3042,2,1,1,272,84,1950,Moonee Valley City Council,-37.7294,144.888,Western Metropolitan,3464
+Airport West,1/80 Hawker St,3,t,700000,S,Brad,4/3/2017,13.5,3042,3,2,2,239,134,2009,Moonee Valley City Council,-37.7218,144.8837,Western Metropolitan,3464
+Airport West,1/37 Hillside Gr,3,h,600000,S,Maddison,4/3/2017,13.5,3042,2,1,1,290,116,1980,Moonee Valley City Council,-37.7273,144.8744,Western Metropolitan,3464
+Airport West,2/49 McIntosh St,2,u,500000,VB,Barry,4/3/2017,13.5,3042,2,1,1,168,86,2011,Moonee Valley City Council,-37.7215,144.8864,Western Metropolitan,3464
+Airport West,4/9 West Ct,2,t,420000,VB,Barry,4/6/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,1/36 York St,3,t,500000,VB,Nelson,4/6/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,33 Bowes Av,5,h,1035000,S,Airport,6/8/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,89 Bowes Av,4,h,960000,S,Barry,6/8/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,45 Laurence Av,4,h,960000,S,Nelson,6/8/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,54 Marshall Rd,3,h,720000,S,Barry,6/8/2016,13.5,3042,2,1,1,620,,,Moonee Valley City Council,-37.7173,144.8872,Western Metropolitan,3464
+Airport West,36 Roberts Rd,4,h,785000,S,Considine,6/8/2016,13.5,3042,3,1,2,597,127,,Moonee Valley City Council,-37.7259,144.8792,Western Metropolitan,3464
+Airport West,11 Harrington Rd,6,h,725000,SP,Barry,7/5/2016,13.5,3042,6,3,2,976,186,1980,Moonee Valley City Council,-37.7239,144.8735,Western Metropolitan,3464
+Airport West,2/252 Parer Rd,2,t,450000,S,Barry,7/5/2016,13.5,3042,2,1,1,110,90,2015,Moonee Valley City Council,-37.7216,144.871,Western Metropolitan,3464
+Airport West,3/19 Hart St,2,u,515000,S,Barry,7/11/2016,13.5,3042,2,1,1,141,73,2013,Moonee Valley City Council,-37.7298,144.8883,Western Metropolitan,3464
+Airport West,81a Roberts Rd,3,h,680000,VB,Nelson,8/10/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,2/62 Clydesdale Rd,2,u,530000,S,Nelson,10/9/2016,13.5,3042,2,1,1,120,94,2012,Moonee Valley City Council,-37.7234,144.8792,Western Metropolitan,3464
+Airport West,3 Deidre Ct,3,h,895000,PI,Rendina,10/9/2016,13.5,3042,3,1,6,1063,133,1975,Moonee Valley City Council,-37.7249,144.8728,Western Metropolitan,3464
+Airport West,3/24 Elstone Av,3,u,600000,VB,Nelson,10/9/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,13 Etzel St,3,h,805000,S,Nelson,10/12/2016,13.5,3042,3,1,1,0,105,1950,Moonee Valley City Council,-37.7217,144.8783,Western Metropolitan,3464
+Airport West,37a North St,3,t,760000,PI,Barry,10/12/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,1/43 Cameron St,3,u,752000,S,Nelson,11/2/2017,13.5,3042,3,1,1,265,130,1993,Moonee Valley City Council,-37.7302,144.8855,Western Metropolitan,3464
+Airport West,1/69 Bowes Av,3,u,580000,VB,Nelson,12/11/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,2/9 El Reno Cr,3,h,725000,PI,Ray,12/11/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,92 McNamara Av,4,h,758000,S,Jellis,13/8/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,145a Victory Rd,2,u,440000,S,Barry,13/8/2016,13.5,3042,2,1,1,192,,,Moonee Valley City Council,-37.7177,144.8787,Western Metropolitan,3464
+Airport West,20 Creswell Av,3,h,970000,S,Barry,14/5/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,241 Parer Rd,5,h,755000,PI,Propertyau,14/5/2016,13.5,3042,3,2,2,596,,,Moonee Valley City Council,-37.7248,144.8699,Western Metropolitan,3464
+Airport West,71 Bowes Av,4,h,985000,S,Barry,15/10/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,2/40 Earl St,3,t,700000,PI,Brad,15/10/2016,13.5,3042,3,2,2,165,133,2009,Moonee Valley City Council,-37.727,144.887,Western Metropolitan,3464
+Airport West,2/112 Parer Rd,2,u,509500,SP,Nelson,15/10/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,180 Parer Rd,3,h,830000,S,Barry,16/4/2016,13.5,3042,3,1,2,971,113,1960,Moonee Valley City Council,-37.7186,144.876,Western Metropolitan,3464
+Airport West,4/54 Hawker St,2,u,462500,S,Barry,16/7/2016,13.5,3042,2,1,1,164,,2003,Moonee Valley City Council,-37.7218,144.8863,Western Metropolitan,3464
+Airport West,43 Hillside Gr,3,h,670000,SP,Barry,16/7/2016,13.5,3042,3,2,2,657,,,Moonee Valley City Council,-37.7269,144.8742,Western Metropolitan,3464
+Airport West,174 Parer Rd,2,h,675000,S,Barry,16/7/2016,13.5,3042,2,1,1,612,100,1975,Moonee Valley City Council,-37.7187,144.8765,Western Metropolitan,3464
+Airport West,138 Victory Rd,3,h,1042000,S,Nelson,16/7/2016,13.5,3042,3,2,5,612,174,1950,Moonee Valley City Council,-37.7173,144.8796,Western Metropolitan,3464
+Airport West,75 King St,3,h,910000,S,McDonald,17/9/2016,13.5,3042,3,1,1,775,,,Moonee Valley City Council,-37.7231,144.8835,Western Metropolitan,3464
+Airport West,6 Kittyhawk St,4,h,773000,S,Brad,17/9/2016,13.5,3042,5,3,4,531,309,1980,Moonee Valley City Council,-37.7263,144.8679,Western Metropolitan,3464
+Airport West,7 McNamara Av,3,h,715000,S,Barry,17/9/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,478 Fullarton Rd,3,h,810000,PI,Barry,18/3/2017,13.5,3042,3,3,2,555,192,1980,Moonee Valley City Council,-37.7285,144.8694,Western Metropolitan,3464
+Airport West,144 Marshall Rd,3,h,715000,S,Rendina,18/3/2017,13.5,3042,3,2,2,422,126,1995,Moonee Valley City Council,-37.7164,144.8792,Western Metropolitan,3464
+Airport West,106 Parer Rd,3,h,790000,S,Nelson,18/3/2017,13.5,3042,3,1,3,614,,,Moonee Valley City Council,-37.7194,144.8827,Western Metropolitan,3464
+Airport West,1/41 Hillside Gr,2,t,460000,VB,Nelson,18/6/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,3/7 South Rd,3,t,540000,SP,Nelson,18/6/2016,13.5,3042,2,2,1,161,101,2010,Moonee Valley City Council,-37.7231,144.8802,Western Metropolitan,3464
+Airport West,37 North St,3,t,825000,SP,Barry,19/11/2016,13.5,3042,3,2,1,293,102,1960,Moonee Valley City Council,-37.72,144.8776,Western Metropolitan,3464
+Airport West,10 Hilbert Rd,3,h,685000,S,Barry,22/5/2016,13.5,3042,3,1,1,579,113,1975,Moonee Valley City Council,-37.7226,144.8733,Western Metropolitan,3464
+Airport West,7/42 York St,3,u,445000,S,Brad,22/5/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,110 Halsey Rd,3,h,805000,S,Barry,22/8/2016,13.5,3042,3,1,1,623,,,Moonee Valley City Council,-37.7184,144.882,Western Metropolitan,3464
+Airport West,2/13 North St,2,u,510000,S,Nelson,22/8/2016,13.5,3042,2,1,1,141,76,,Moonee Valley City Council,-37.7202,144.8797,Western Metropolitan,3464
+Airport West,105a Victory Rd,3,h,612000,S,Nelson,22/8/2016,13.5,3042,3,2,1,212,,,Moonee Valley City Council,-37.7181,144.8824,Western Metropolitan,3464
+Airport West,117 Marshall Rd,3,h,662000,S,Brad,23/4/2016,13.5,3042,3,1,2,612,,,Moonee Valley City Council,-37.7169,144.8815,Western Metropolitan,3464
+Airport West,34 Moorna Dr,4,h,978000,S,Nelson,24/9/2016,13.5,3042,4,3,2,532,,,Moonee Valley City Council,-37.7263,144.869,Western Metropolitan,3464
+Airport West,2/89 Marshall Rd,3,u,,VB,Barry,25/2/2017,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,33 North St,3,h,720000,PI,Nelson,25/2/2017,13.5,3042,3,1,1,585,,,Moonee Valley City Council,-37.72,144.878,Western Metropolitan,3464
+Airport West,4/40 McNamara Av,2,u,474000,PI,Barry,26/7/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,5/93 McNamara Av,2,t,490000,SP,Frank,26/7/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,2/137 McNamara Av,3,h,405000,S,Ray,27/6/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,1/46 Bowes Av,3,t,715000,S,Barry,27/11/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,1/34 Elstone Av,3,u,671500,S,McDonald,27/11/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,49 Roberts Rd,4,h,765000,S,Prof.,27/11/2016,13.5,3042,4,1,2,509,,,Moonee Valley City Council,-37.7261,144.8785,Western Metropolitan,3464
+Airport West,85 Roberts Rd,4,h,900000,S,Harcourts,27/11/2016,13.5,3042,4,2,3,628,146,1975,Moonee Valley City Council,-37.7256,144.8739,Western Metropolitan,3464
+Airport West,22a Walters Av,3,u,820000,S,Nelson,28/8/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,1/145 Parer Rd,3,u,650000,PI,Nelson,30/7/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Airport West,3/35 Walters Av,3,t,552000,SP,Nelson,30/7/2016,13.5,3042,,,,,,,Moonee Valley City Council,,,Western Metropolitan,3464
+Albert Park,105 Kerferd Rd,2,h,1275000,S,hockingstuart,3/9/2016,3.3,3206,2,1,0,120,82,1900,Port Phillip City Council,-37.8459,144.9555,Southern Metropolitan,3280
+Albert Park,85 Richardson St,2,h,1455000,S,Thomson,3/9/2016,3.3,3206,2,1,0,159,,,Port Phillip City Council,-37.845,144.9538,Southern Metropolitan,3280
+Albert Park,112 Beaconsfield Pde,3,h,2850000,PI,Buxton,4/3/2017,3.3,3206,3,2,0,211,198,1890,Port Phillip City Council,-37.8481,144.9499,Southern Metropolitan,3280
+Albert Park,94 Graham St,3,h,1850000,S,Greg,4/3/2017,3.3,3206,3,2,0,128,133,1890,Port Phillip City Council,-37.8452,144.9488,Southern Metropolitan,3280
+Albert Park,14 Merton St,2,h,,SP,Marshall,4/3/2017,3.3,3206,2,1,0,215,,1900,Port Phillip City Council,-37.8405,144.953,Southern Metropolitan,3280
+Albert Park,396 Montague St,2,h,1436000,S,RT,4/3/2017,3.3,3206,2,1,0,130,81,1900,Port Phillip City Council,-37.8431,144.9565,Southern Metropolitan,3280
+Albert Park,9 Boyd St,3,h,,SN,Greg,6/8/2016,3.3,3206,2,2,1,336,145,1890,Port Phillip City Council,-37.8471,144.9561,Southern Metropolitan,3280
+Albert Park,75 Graham St,2,h,1110000,S,Marshall,6/8/2016,3.3,3206,1,1,0,147,,1900,Port Phillip City Council,-37.8444,144.9484,Southern Metropolitan,3280
+Albert Park,54 Brooke St,2,h,1550000,S,Sotheby's,7/5/2016,3.3,3206,2,1,1,167,,,Port Phillip City Council,-37.8405,144.9521,Southern Metropolitan,3280
+Albert Park,104 Richardson St,4,h,2300000,S,Marshall,7/5/2016,3.3,3206,4,2,1,153,180,1880,Port Phillip City Council,-37.8447,144.9523,Southern Metropolitan,3280
+Albert Park,81 Richardson St,3,h,,S,Marshall,7/5/2016,3.3,3206,3,1,2,316,125,1880,Port Phillip City Council,-37.8449,144.9536,Southern Metropolitan,3280
+Albert Park,4a Mills St,3,t,1550000,VB,Marshall,7/11/2016,3.3,3206,3,2,2,718,,,Port Phillip City Council,-37.8443,144.9598,Southern Metropolitan,3280
+Albert Park,1 Moubray St,3,h,1800000,VB,Greg,7/11/2016,3.3,3206,3,2,1,132,159,1996,Port Phillip City Council,-37.8415,144.952,Southern Metropolitan,3280
+Albert Park,114 Victoria Av,3,h,2485000,S,Cayzer,8/10/2016,3.3,3206,,,,,,,Port Phillip City Council,,,Southern Metropolitan,3280
+Albert Park,29 Faussett St,2,h,2120000,S,Greg,10/9/2016,3.3,3206,2,1,1,199,107,1900,Port Phillip City Council,-37.8422,144.9554,Southern Metropolitan,3280
+Albert Park,3 Herbert St,3,h,1800000,VB,Cayzer,10/9/2016,3.3,3206,3,1,1,253,,,Port Phillip City Council,-37.8443,144.9579,Southern Metropolitan,3280
+Albert Park,24 Kerferd Pl,3,h,1800000,S,Marshall,10/9/2016,3.3,3206,3,2,1,90,122,1900,Port Phillip City Council,-37.8421,144.9571,Southern Metropolitan,3280
+Albert Park,5 Withers St,3,h,,SN,Marshall,10/9/2016,3.3,3206,3,1,0,126,88,1910,Port Phillip City Council,-37.8427,144.9515,Southern Metropolitan,3280
+Albert Park,44 Draper St,2,h,1810000,PI,Greg,10/12/2016,3.3,3206,2,1,0,240,,,Port Phillip City Council,-37.8379,144.9539,Southern Metropolitan,3280
+Albert Park,2 Dundas Pl,3,h,2615000,S,Cayzer,10/12/2016,3.3,3206,3,2,1,177,181,1880,Port Phillip City Council,-37.8415,144.9585,Southern Metropolitan,3280
+Albert Park,23 Finlay St,5,h,2100000,S,Greg,10/12/2016,3.3,3206,5,2,1,237,,,Port Phillip City Council,-37.8436,144.9557,Southern Metropolitan,3280
+Albert Park,31 Richardson St,3,h,1300000,S,hockingstuart,10/12/2016,3.3,3206,3,1,0,129,,,Port Phillip City Council,-37.8422,144.949,Southern Metropolitan,3280
+Albert Park,4a Gatehouse La,3,h,1370000,S,Greg,12/6/2016,3.3,3206,3,2,2,0,85,2000,Port Phillip City Council,-37.8451,144.9511,Southern Metropolitan,3280
+Albert Park,60 Brooke St,2,h,1000000,S,Cayzer,12/11/2016,3.3,3206,2,1,0,288,,,Port Phillip City Council,-37.8407,144.9523,Southern Metropolitan,3280
+Albert Park,140 Danks St,2,h,,SP,Marshall,13/8/2016,3.3,3206,2,1,2,366,117,1900,Port Phillip City Council,-37.847,144.9506,Southern Metropolitan,3280
+Albert Park,70 Barrett St,3,h,2575000,S,Greg,15/10/2016,3.3,3206,3,2,1,228,,,Port Phillip City Council,-37.8445,144.9501,Southern Metropolitan,3280
+Albert Park,65 Graham St,2,h,1322500,S,Greg,15/10/2016,3.3,3206,2,1,0,149,98,1890,Port Phillip City Council,-37.8443,144.9481,Southern Metropolitan,3280
+Albert Park,1 Herbert Pl,2,h,,S,hockingstuart,15/10/2016,3.3,3206,2,1,1,152,,,Port Phillip City Council,-37.8437,144.959,Southern Metropolitan,3280
+Albert Park,364 Montague St,2,h,1562500,S,Greg,15/10/2016,3.3,3206,2,1,0,141,83,1890,Port Phillip City Council,-37.8424,144.9562,Southern Metropolitan,3280
+Albert Park,86 Mills St,3,h,2000000,VB,RT,16/4/2016,3.3,3206,3,2,1,211,147,1900,Port Phillip City Council,-37.847,144.9575,Southern Metropolitan,3280
+Albert Park,28 Dinsdale St,4,h,,S,Marshall,17/9/2016,3.3,3206,3,1,0,236,,,Port Phillip City Council,-37.8454,144.9521,Southern Metropolitan,3280
+Albert Park,90 Danks St,3,h,,S,Marshall,18/3/2017,3.3,3206,3,1,2,300,,,Port Phillip City Council,-37.8457,144.9479,Southern Metropolitan,3280
+Albert Park,129 Kerferd Rd,3,h,1900000,S,Greg,18/3/2017,3.3,3206,3,1,0,209,,1900,Port Phillip City Council,-37.8468,144.9546,Southern Metropolitan,3280
+Albert Park,97 Page St,3,h,3010000,S,Greg,18/3/2017,3.3,3206,3,2,0,147,146,1890,Port Phillip City Council,-37.8473,144.9551,Southern Metropolitan,3280
+Albert Park,36 Ashworth St,3,h,,SP,Marshall,18/6/2016,3.3,3206,3,1,0,173,,,Port Phillip City Council,-37.8482,144.9513,Southern Metropolitan,3280
+Albert Park,55 Withers St,4,h,2800000,VB,Cayzer,18/6/2016,3.3,3206,4,3,1,327,254,1910,Port Phillip City Council,-37.8467,144.9475,Southern Metropolitan,3280
+Albert Park,18 Herbert St,3,h,,SN,Cayzer,19/11/2016,3.3,3206,3,1,0,169,,,Port Phillip City Council,-37.8448,144.9578,Southern Metropolitan,3280
+Albert Park,10/140 Kerferd Rd,2,u,647000,S,Greg,22/5/2016,3.3,3206,2,1,1,0,,,Port Phillip City Council,-37.846,144.9542,Southern Metropolitan,3280
+Albert Park,9 Merton Pl,3,h,,SP,Marshall,22/5/2016,3.3,3206,3,2,1,122,,,Port Phillip City Council,-37.845,144.9545,Southern Metropolitan,3280
+Albert Park,55 Merton St,3,h,2100000,SP,Marshall,23/4/2016,3.3,3206,2,1,1,120,123,1900,Port Phillip City Council,-37.8427,144.9546,Southern Metropolitan,3280
+Albert Park,16 Dinsdale St,3,h,,S,Greg,24/9/2016,3.3,3206,3,2,1,241,119,1990,Port Phillip City Council,-37.8452,144.9518,Southern Metropolitan,3280
+Albert Park,51 Graham St,2,h,,PI,Marshall,24/9/2016,3.3,3206,2,2,1,225,,,Port Phillip City Council,-37.8441,144.9479,Southern Metropolitan,3280
+Albert Park,143 Kerferd Rd,7,h,,SN,hockingstuart,24/9/2016,3.3,3206,7,7,0,435,,,Port Phillip City Council,-37.8473,144.9539,Southern Metropolitan,3280
+Albert Park,49 Page St,3,h,2000000,PI,Marshall,24/9/2016,3.3,3206,3,1,1,238,131,1890,Port Phillip City Council,-37.8461,144.9528,Southern Metropolitan,3280
+Albert Park,13/52 Moubray St,1,u,442500,S,Marshall,25/2/2017,3.3,3206,1,1,0,0,34,1970,Port Phillip City Council,-37.8421,144.9517,Southern Metropolitan,3280
+Albert Park,115 Page St,4,h,4735000,S,Marshall,25/2/2017,3.3,3206,4,2,1,330,207,1910,Port Phillip City Council,-37.8477,144.9558,Southern Metropolitan,3280
+Albert Park,32 Page St,2,h,1340000,S,Greg,25/2/2017,3.3,3206,2,1,0,136,,,Port Phillip City Council,-37.846,144.9517,Southern Metropolitan,3280
+Albert Park,34 Richardson St,3,h,1801000,S,hockingstuart,25/2/2017,3.3,3206,3,1,1,202,,,Port Phillip City Council,-37.8429,144.9493,Southern Metropolitan,3280
+Albert Park,2b Dundas Pl,3,h,1532000,S,Chisholm,26/7/2016,3.3,3206,3,3,1,0,,,Port Phillip City Council,-37.8415,144.9585,Southern Metropolitan,3280
+Albert Park,22 Greig St,3,h,3755000,S,Greg,26/7/2016,3.3,3206,3,2,2,325,,,Port Phillip City Council,-37.8413,144.95,Southern Metropolitan,3280
+Albert Park,27 Barrett St,4,h,2140000,S,Greg,27/6/2016,3.3,3206,3,2,1,183,145,1880,Port Phillip City Council,-37.8434,144.9495,Southern Metropolitan,3280
+Albert Park,3 Faussett St,2,u,1810000,PI,Marshall,27/6/2016,3.3,3206,,,,,,,Port Phillip City Council,,,Southern Metropolitan,3280
+Albert Park,44 Greig St,2,h,1750000,S,Marshall,27/11/2016,3.3,3206,2,1,1,162,,,Port Phillip City Council,-37.8416,144.9488,Southern Metropolitan,3280
+Albert Park,6 Brooke St,2,h,980000,S,Greg,28/5/2016,3.3,3206,2,1,0,79,68,1890,Port Phillip City Council,-37.8387,144.9519,Southern Metropolitan,3280
+Albert Park,7 Herbert Pl,2,h,,SP,Marshall,28/5/2016,3.3,3206,2,1,0,99,65,1900,Port Phillip City Council,-37.8438,144.9588,Southern Metropolitan,3280
+Albert Park,8 Kerferd Pl,4,h,,SP,Marshall,28/5/2016,3.3,3206,4,2,0,230,185,1900,Port Phillip City Council,-37.842,144.958,Southern Metropolitan,3280
+Albert Park,5 Reed St,3,h,,SN,Greg,28/5/2016,3.3,3206,3,2,1,141,,,Port Phillip City Council,-37.8446,144.945,Southern Metropolitan,3280
+Albert Park,227a Danks St,3,h,2030000,S,hockingstuart,28/8/2016,3.3,3206,3,2,0,152,,,Port Phillip City Council,-37.8488,144.9551,Southern Metropolitan,3280
+Albert Park,17 Reed St,3,h,1740000,PI,Marshall,28/8/2016,3.3,3206,3,2,2,147,134,1890,Port Phillip City Council,-37.8448,144.9453,Southern Metropolitan,3280
+Albert Park,74 Bridport St,3,h,2800000,VB,Buxton,30/7/2016,3.3,3206,3,3,1,0,,,Port Phillip City Council,-37.8399,144.9577,Southern Metropolitan,3280
+Albert Park,9 Durham St,1,h,985000,S,Marshall,30/7/2016,3.3,3206,1,1,0,81,54,1900,Port Phillip City Council,-37.8411,144.9497,Southern Metropolitan,3280
+Alphington,30 Austin St,3,h,,SN,McGrath,3/9/2016,6.4,3078,3,2,1,174,122,2003,Darebin City Council,-37.7818,145.0198,Northern Metropolitan,2211
+Alphington,6 Smith St,4,h,2000000,S,Brace,3/9/2016,6.4,3078,3,2,4,853,263,1930,Darebin City Council,-37.7707,145.0318,Northern Metropolitan,2211
+Alphington,5/6 Yarralea St,3,h,1110000,S,Jellis,3/9/2016,6.4,3078,3,2,2,208,,2013,Darebin City Council,-37.7854,145.0325,Northern Metropolitan,2211
+Alphington,136A Fulham Rd,3,h,1492000,S,Jellis,4/3/2017,6.4,3078,3,2,2,411,,,Darebin City Council,-37.7713,145.0279,Northern Metropolitan,2211
+Alphington,1/9 Roemer Cr,2,u,480000,PI,Miles,7/5/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,4 Tuckett St,3,h,,S,Jellis,7/5/2016,6.4,3078,3,1,3,922,,,Darebin City Council,-37.7812,145.0235,Northern Metropolitan,2211
+Alphington,2/21 Fulham Rd,3,t,1304000,SP,Holland,8/10/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,44 Shiers St,4,h,1717500,S,Collins,8/10/2016,6.4,3078,4,2,1,599,203,1925,Darebin City Council,-37.7717,145.031,Northern Metropolitan,2211
+Alphington,83 Fulham Rd,5,h,2840000,S,Nelson,12/6/2016,6.4,3078,5,4,4,809,165,1910,Darebin City Council,-37.775,145.0268,Northern Metropolitan,2211
+Alphington,29 Alphington St,5,h,,S,Collins,12/11/2016,6.4,3078,5,3,4,743,,1915,Darebin City Council,-37.7845,145.0208,Northern Metropolitan,2211
+Alphington,3/19 Harker St,2,u,525500,S,Miles,12/11/2016,6.4,3078,2,1,1,88,60,1960,Darebin City Council,-37.7791,145.0306,Northern Metropolitan,2211
+Alphington,4/2 Miller St,2,t,805000,S,Miles,12/11/2016,6.4,3078,2,2,3,155,140,2004,Darebin City Council,-37.7804,145.0308,Northern Metropolitan,2211
+Alphington,2/5 Yarana Rd,2,u,465000,S,McGrath,12/11/2016,6.4,3078,2,1,1,0,,,Darebin City Council,-37.7773,145.0314,Northern Metropolitan,2211
+Alphington,4/5 Chandler Hwy,4,t,,PN,Nelson,13/8/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,69 Lucerne Cr,3,h,1480000,S,Nelson,13/8/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,815 Heidelberg Rd,3,h,2000000,PI,hockingstuart,15/10/2016,6.4,3078,3,3,2,686,,,Darebin City Council,-37.78,145.0341,Northern Metropolitan,2211
+Alphington,44 Naroon Rd,3,h,1540000,S,Nelson,16/4/2016,6.4,3078,3,1,2,592,,,Darebin City Council,-37.7755,145.0288,Northern Metropolitan,2211
+Alphington,11 Tower Av,4,h,,S,Jellis,16/4/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,1/17 Rex Av,2,u,590000,PI,Nelson,17/9/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,3/98 Grange Rd,2,u,820000,S,Nelson,18/3/2017,6.4,3078,2,1,1,183,,,Darebin City Council,-37.7747,145.0264,Northern Metropolitan,2211
+Alphington,10 Bennett St,4,h,1830000,S,Nelson,19/11/2016,6.4,3078,4,2,2,606,112,1970,Darebin City Council,-37.7743,145.0316,Northern Metropolitan,2211
+Alphington,38 Bennett St,4,h,2100000,S,Nelson,19/11/2016,6.4,3078,4,2,2,575,271,2008,Darebin City Council,-37.7723,145.0319,Northern Metropolitan,2211
+Alphington,2c Hamilton St,3,h,865000,SP,hockingstuart,22/5/2016,6.4,3078,3,1,1,180,131,2010,Darebin City Council,-37.7802,145.0243,Northern Metropolitan,2211
+Alphington,5/5 Yarana Rd,2,u,390000,VB,Nelson,22/5/2016,6.4,3078,2,1,1,0,60,1960,Darebin City Council,-37.7773,145.0314,Northern Metropolitan,2211
+Alphington,7/7 Chandler Hwy,2,t,650000,SP,Brace,24/9/2016,6.4,3078,0,1,0,0,,,Darebin City Council,-37.7848,145.025,Northern Metropolitan,2211
+Alphington,1/14 Fulham Rd,2,u,512000,S,Love,25/2/2017,6.4,3078,2,1,1,0,61,1965,Darebin City Council,-37.7805,145.0262,Northern Metropolitan,2211
+Alphington,17 Lowther St,3,h,1361000,S,Collins,25/2/2017,6.4,3078,,,,,,,Darebin City Council,-37.7796,145.0285,Northern Metropolitan,2211
+Alphington,29 Naroon Rd,4,h,,SP,Jellis,25/2/2017,6.4,3078,4,2,2,597,,,Darebin City Council,-37.7765,145.0283,Northern Metropolitan,2211
+Alphington,13a Fulham Rd,3,h,1310000,S,Jellis,26/7/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,32/23 Coate Av,3,h,570000,VB,Thomas,27/6/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,22 Lowther St,3,h,1165000,S,Barry,27/6/2016,6.4,3078,3,1,2,979,,,Darebin City Council,-37.7792,145.029,Northern Metropolitan,2211
+Alphington,6/11 Broomfield Av,2,u,530000,S,Jellis,27/11/2016,6.4,3078,,,,,,,Darebin City Council,,,Northern Metropolitan,2211
+Alphington,11 Margaret Gr,4,h,1900000,SP,McGrath,27/11/2016,6.4,3078,4,2,2,556,272,1930,Darebin City Council,-37.7844,145.0225,Northern Metropolitan,2211
+Alphington,21 Como St,5,h,,SN,Nelson,28/8/2016,6.4,3078,5,2,2,552,211,1916,Darebin City Council,-37.7829,145.0337,Northern Metropolitan,2211
+Alphington,6 Naroon Rd,3,h,1485000,SP,McGrath,28/8/2016,6.4,3078,3,0,0,597,,,Darebin City Council,-37.7781,145.0284,Northern Metropolitan,2211
+Alphington,42 Shiers St,4,h,1950000,S,Jellis,30/7/2016,6.4,3078,4,2,3,589,210,1920,Darebin City Council,-37.7719,145.0309,Northern Metropolitan,2211
+Altona,158 Queen St,3,h,520000,VB,Greg,3/9/2016,13.8,3018,3,2,1,352,242,2015,Hobsons Bay City Council,-37.87,144.825,Western Metropolitan,5301
+Altona,59 Bracken Gr,5,h,1525000,S,Greg,3/12/2016,13.8,3018,5,3,3,729,268,2005,Hobsons Bay City Council,-37.8721,144.8105,Western Metropolitan,5301
+Altona,1/123 Blyth St,2,t,720000,S,hockingstuart,4/2/2016,13.8,3018,2,1,2,292,125,2013,Hobsons Bay City Council,-37.8687,144.8197,Western Metropolitan,5301
+Altona,4 Blyth St,3,h,1120000,S,Barlow,4/3/2017,13.8,3018,3,1,2,506,120,1930,Hobsons Bay City Council,-37.8693,144.8375,Western Metropolitan,5301
+Altona,20 Linnet St,4,h,780000,PI,Sweeney,4/6/2016,13.8,3018,4,1,4,655,,,Hobsons Bay City Council,-37.868,144.8154,Western Metropolitan,5301
+Altona,29 Rose St,4,h,1780000,SP,Greg,4/6/2016,13.8,3018,4,3,6,1057,220,1962,Hobsons Bay City Council,-37.8681,144.819,Western Metropolitan,5301
+Altona,1/170 Blyth St,3,u,630000,S,Barlow,6/8/2016,13.8,3018,2,1,2,311,94,1955,Hobsons Bay City Council,-37.8702,144.8143,Western Metropolitan,5301
+Altona,5/35 Grieve Pde,2,u,406000,SP,hockingstuart,6/8/2016,13.8,3018,2,1,1,65,,,Hobsons Bay City Council,-37.8693,144.8171,Western Metropolitan,5301
+Altona,156 Maidstone St,3,h,660000,VB,Greg,7/5/2016,13.8,3018,3,1,1,602,123,1955,Hobsons Bay City Council,-37.8616,144.8116,Western Metropolitan,5301
+Altona,11 Keeshan Ct,3,h,683500,S,Greg,7/11/2016,13.8,3018,3,1,1,530,,,Hobsons Bay City Council,-37.8594,144.817,Western Metropolitan,5301
+Altona,1/4 Deavey Ct,2,u,540000,VB,hockingstuart,8/10/2016,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,1/136 Queen St,2,u,580000,S,Barlow,8/10/2016,13.8,3018,2,1,1,225,93,1988,Hobsons Bay City Council,-37.8696,144.827,Western Metropolitan,5301
+Altona,173 Queen St,3,h,1335000,S,hockingstuart,8/10/2016,13.8,3018,3,1,4,777,22,1953,Hobsons Bay City Council,-37.8697,144.8249,Western Metropolitan,5301
+Altona,1/265 Queen St,3,t,800000,SP,hockingstuart,8/10/2016,13.8,3018,3,2,2,280,,1997,Hobsons Bay City Council,-37.8734,144.8143,Western Metropolitan,5301
+Altona,3/26 Grieve Pde,2,u,510000,S,Village,10/9/2016,13.8,3018,2,1,1,127,76,1990,Hobsons Bay City Council,-37.8686,144.8182,Western Metropolitan,5301
+Altona,261 Queen St,4,h,1070000,S,Barlow,10/9/2016,13.8,3018,4,2,2,695,,,Hobsons Bay City Council,-37.8733,144.8147,Western Metropolitan,5301
+Altona,4/5 Rose St,2,u,425000,S,hockingstuart,10/9/2016,13.8,3018,2,1,2,115,57,1980,Hobsons Bay City Council,-37.871,144.8185,Western Metropolitan,5301
+Altona,1/60 David St,3,u,605000,S,Jas,10/12/2016,13.8,3018,3,2,2,230,,,Hobsons Bay City Council,-37.8646,144.827,Western Metropolitan,5301
+Altona,1A Merritt Ct,3,t,705000,S,hockingstuart,11/2/2017,13.8,3018,3,2,2,197,152,,Hobsons Bay City Council,-37.8579,144.8181,Western Metropolitan,5301
+Altona,4/31 Millers Rd,2,u,391000,SP,Greg,11/2/2017,13.8,3018,2,1,1,0,65,1965,Hobsons Bay City Council,-37.8678,144.8384,Western Metropolitan,5301
+Altona,111/112 Pier St,2,u,440000,SP,hockingstuart,11/2/2017,13.8,3018,2,1,1,0,,,Hobsons Bay City Council,-37.8659,144.831,Western Metropolitan,5301
+Altona,24 Wren St,4,h,845000,S,hockingstuart,11/2/2017,13.8,3018,4,1,2,745,130,1950,Hobsons Bay City Council,-37.8658,144.8155,Western Metropolitan,5301
+Altona,54 Seves St,3,h,766000,S,Williams,11/3/2017,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,1/152 Blyth St,3,t,743000,SP,Gunn&Co,12/11/2016,13.8,3018,3,2,2,211,176,,Hobsons Bay City Council,-37.8698,144.816,Western Metropolitan,5301
+Altona,2/6 Galvin St,3,t,650000,SP,Williams,12/11/2016,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,4/57 Blyth St,3,u,730000,SP,Barlow,13/8/2016,13.8,3018,3,2,1,69,141,2014,Hobsons Bay City Council,-37.868,144.8286,Western Metropolitan,5301
+Altona,10 Wilga Av,3,t,916500,S,hockingstuart,13/8/2016,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,164 Maidstone St,3,h,635000,S,Sweeney,14/5/2016,13.8,3018,3,1,4,625,,1960,Hobsons Bay City Council,-37.8611,144.8114,Western Metropolitan,5301
+Altona,3/25 Rayner St,2,u,620000,SP,hockingstuart,14/5/2016,13.8,3018,2,1,1,168,,,Hobsons Bay City Council,-37.8676,144.8202,Western Metropolitan,5301
+Altona,3/46 Sargood St,2,u,447000,S,Burnham,15/10/2016,13.8,3018,2,1,1,137,77,1990,Hobsons Bay City Council,-37.8655,144.8299,Western Metropolitan,5301
+Altona,1/57 Blyth St,3,u,730000,SP,Barlow,16/4/2016,13.8,3018,3,2,1,70,,,Hobsons Bay City Council,-37.868,144.8287,Western Metropolitan,5301
+Altona,22 Fenfield St,3,h,678000,S,hockingstuart,16/4/2016,13.8,3018,3,1,2,606,87,1950,Hobsons Bay City Council,-37.8608,144.8124,Western Metropolitan,5301
+Altona,5/8 David St,2,u,580000,PI,Biggin,16/7/2016,13.8,3018,2,2,1,175,76,2013,Hobsons Bay City Council,-37.8687,144.8268,Western Metropolitan,5301
+Altona,1/28 Seves St,3,h,712000,S,hockingstuart,17/9/2016,13.8,3018,3,1,2,363,,,Hobsons Bay City Council,-37.8674,144.8375,Western Metropolitan,5301
+Altona,27 McIntyre Dr,3,h,840000,SP,Greg,18/3/2017,13.8,3018,3,2,2,534,136,1965,Hobsons Bay City Council,-37.86,144.8245,Western Metropolitan,5301
+Altona,4 Boyd St,3,h,980000,S,Barlow,19/11/2016,13.8,3018,3,1,2,724,,,Hobsons Bay City Council,-37.8672,144.817,Western Metropolitan,5301
+Altona,5a Emu Av,4,h,1000000,S,Barlow,19/11/2016,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,12 Spear Ct,3,t,605100,S,hockingstuart,22/5/2016,13.8,3018,3,2,0,265,,,Hobsons Bay City Council,-37.8583,144.8172,Western Metropolitan,5301
+Altona,185 Queen St,3,h,880000,PI,Barlow,22/8/2016,13.8,3018,3,3,1,577,,,Hobsons Bay City Council,-37.8699,144.8235,Western Metropolitan,5301
+Altona,3/20 Mulga St,3,u,577000,S,Williams,23/4/2016,13.8,3018,3,2,1,205,113,2007,Hobsons Bay City Council,-37.8684,144.815,Western Metropolitan,5301
+Altona,95 Blyth St,4,h,,SN,hockingstuart,25/2/2017,13.8,3018,4,2,3,504,,,Hobsons Bay City Council,-37.8677,144.8252,Western Metropolitan,5301
+Altona,51 Millers Rd,4,h,1030000,S,Barlow,25/2/2017,13.8,3018,4,1,0,797,,,Hobsons Bay City Council,-37.8663,144.8387,Western Metropolitan,5301
+Altona,2/119 Railway St N,3,u,605000,S,Barlow,25/2/2017,13.8,3018,3,1,2,181,,,Hobsons Bay City Council,-37.8659,144.822,Western Metropolitan,5301
+Altona,12 Ransom Av,3,h,685000,S,Barlow,25/2/2017,13.8,3018,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5301
+Altona,2/5 Rose St,2,u,,PI,Point,25/2/2017,13.8,3018,2,1,1,117,58,1980,Hobsons Bay City Council,-37.871,144.8185,Western Metropolitan,5301
+Altona,24 McIntyre Dr,3,h,753000,S,Barlow,27/6/2016,13.8,3018,3,2,2,529,,,Hobsons Bay City Council,-37.8612,144.8247,Western Metropolitan,5301
+Altona,104 Maidstone St,2,h,857000,SP,hockingstuart,27/11/2016,13.8,3018,2,2,1,675,100,1950,Hobsons Bay City Council,-37.8653,144.8129,Western Metropolitan,5301
+Altona,49 Bent St,3,h,1500000,S,Barlow,28/5/2016,13.8,3018,3,1,1,929,,,Hobsons Bay City Council,-37.8651,144.832,Western Metropolitan,5301
+Altona,5/57 Blyth St,3,u,730000,SP,Barlow,28/5/2016,13.8,3018,3,2,1,70,3,2014,Hobsons Bay City Council,-37.868,144.8285,Western Metropolitan,5301
+Altona,15 Kookaburra St,3,h,900000,S,Sweeney,28/5/2016,13.8,3018,3,1,4,697,,,Hobsons Bay City Council,-37.871,144.8075,Western Metropolitan,5301
+Altona,219 Civic Pde,3,h,740000,S,Greg,28/8/2016,13.8,3018,3,1,2,604,,,Hobsons Bay City Council,-37.8631,144.8195,Western Metropolitan,5301
+Altona,3 Curtin Ct,4,h,931000,S,Sweeney,28/8/2016,13.8,3018,4,2,3,532,,1970,Hobsons Bay City Council,-37.8637,144.8365,Western Metropolitan,5301
+Altona,2/60 David St,2,h,535600,SP,Compton,30/7/2016,13.8,3018,2,1,1,154,91,1996,Hobsons Bay City Council,-37.8646,144.8272,Western Metropolitan,5301
+Altona North,1 Beuron Rd,3,h,,SP,Williams,3/9/2016,11.1,3025,3,1,1,620,108,1950,Hobsons Bay City Council,-37.829,144.848,Western Metropolitan,5132
+Altona North,45 Hearn St,5,h,1085000,S,FN,3/9/2016,11.1,3025,5,3,6,592,251,1965,Hobsons Bay City Council,-37.8388,144.8567,Western Metropolitan,5132
+Altona North,4 Knapp St,3,h,781000,S,Jas,3/9/2016,11.1,3025,3,1,2,533,117,1970,Hobsons Bay City Council,-37.8291,144.835,Western Metropolitan,5132
+Altona North,103 Sixth Av,4,h,857500,S,hockingstuart,3/9/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,80A Hansen St,4,h,960000,S,Sweeney,4/3/2017,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,21 Hatherley Gr,3,h,750000,SP,Jas,4/3/2017,11.1,3025,3,1,3,554,,,Hobsons Bay City Council,-37.8449,144.85,Western Metropolitan,5132
+Altona North,3/66 Marion St,2,t,421000,S,hockingstuart,4/3/2017,11.1,3025,2,1,1,77,77,2009,Hobsons Bay City Council,-37.8351,144.8529,Western Metropolitan,5132
+Altona North,153 Mills St,3,h,1405000,S,Sweeney,4/3/2017,11.1,3025,3,1,3,655,,,Hobsons Bay City Council,-37.8338,144.8562,Western Metropolitan,5132
+Altona North,1/70 Misten Av,2,h,,S,hockingstuart,4/3/2017,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,33 Carthy St,3,h,683000,S,FN,4/6/2016,11.1,3025,3,1,2,534,167,1967,Hobsons Bay City Council,-37.8284,144.8355,Western Metropolitan,5132
+Altona North,47 Ginifer Av,3,h,,SN,Barry,4/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,16 Harris St,3,h,623000,S,Sweeney,4/6/2016,11.1,3025,3,1,3,540,,,Hobsons Bay City Council,-37.8267,144.8368,Western Metropolitan,5132
+Altona North,1/5 Little St,3,h,720000,VB,Greg,6/8/2016,11.1,3025,3,2,1,0,130,2012,Hobsons Bay City Council,-37.8379,144.8583,Western Metropolitan,5132
+Altona North,58a Clematis Av,4,t,780000,S,hockingstuart,7/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/77 Hansen St,3,u,720000,S,hockingstuart,7/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,21 Joel Av,3,h,705000,SP,Village,7/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/95 Mills St,3,h,588000,S,Williams,7/5/2016,11.1,3025,3,1,1,328,118,1970,Hobsons Bay City Council,-37.838,144.8555,Western Metropolitan,5132
+Altona North,2/5 Stapley Cr,4,h,720000,VB,hockingstuart,7/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,5 Binns St,3,h,710000,PI,Village,7/11/2016,11.1,3025,3,1,3,540,116,1960,Hobsons Bay City Council,-37.8294,144.8378,Western Metropolitan,5132
+Altona North,2/9 First Av,2,h,550000,SP,RT,7/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/28 Irwin Av,3,u,640000,VB,hockingstuart,7/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,3/49 Misten Av,3,h,537500,SP,hockingstuart,7/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,29a The Broadway,4,t,,PN,Williams,7/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,25 Allan St,4,h,875000,SP,Jas,8/10/2016,11.1,3025,3,1,4,559,169,1965,Hobsons Bay City Council,-37.8448,144.8529,Western Metropolitan,5132
+Altona North,9 Fourth Av,3,h,800000,S,Barlow,8/10/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,11a Edward Av,3,t,713500,S,Greg,10/9/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,45 Freemans Rd,4,h,,PN,hockingstuart,10/12/2016,11.1,3025,4,2,5,537,196,1960,Hobsons Bay City Council,-37.8261,144.8391,Western Metropolitan,5132
+Altona North,21 Hatherley Gr,3,h,700000,VB,Jas,10/12/2016,11.1,3025,3,1,3,554,,,Hobsons Bay City Council,-37.8449,144.85,Western Metropolitan,5132
+Altona North,1B Paproth Gr,2,h,551000,SP,RT,10/12/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,7 Seventh Av,3,h,685000,SP,Greg,10/12/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/256 Mason St,2,t,640000,S,Williams,11/3/2017,11.1,3025,2,1,1,252,,1965,Hobsons Bay City Council,-37.8397,144.8602,Western Metropolitan,5132
+Altona North,21 Allan St,4,h,650000,SP,Williams,12/6/2016,11.1,3025,4,1,4,558,,,Hobsons Bay City Council,-37.8451,144.8529,Western Metropolitan,5132
+Altona North,56a First Av,3,h,925000,SP,RT,12/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,63a First Av,3,h,,PI,RT,13/8/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,59 Misten Av,2,h,,PI,Greg,13/8/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,85a First Av,3,t,670000,VB,Greg,14/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,22 Joel Av,3,h,680000,SP,Hunter,14/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,11 Mahon Av,3,h,765000,S,Greg,14/5/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,2/36 May St,3,h,675000,S,hockingstuart,14/5/2016,11.1,3025,3,2,2,171,109,2012,Hobsons Bay City Council,-37.8337,144.8554,Western Metropolitan,5132
+Altona North,11 Beevers St,3,h,708000,S,Greg,15/10/2016,11.1,3025,3,1,2,585,97,1960,Hobsons Bay City Council,-37.8258,144.8523,Western Metropolitan,5132
+Altona North,2/10 Cleghorn Av,3,t,656000,SP,Gunn&Co,15/10/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,2 Edward Av,4,h,883000,S,hockingstuart,15/10/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,10 Murphy St,4,h,965000,SP,Gunn&Co,15/10/2016,11.1,3025,4,1,4,851,,,Hobsons Bay City Council,-37.8345,144.8444,Western Metropolitan,5132
+Altona North,128 Second Av,3,h,870000,S,Hunter,15/10/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,5/24 Valerian Av,3,h,681000,PI,Village,15/10/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,2/31 Cooper Av,2,h,522500,SA,hockingstuart,16/7/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,9 Begonia Av,5,h,972000,S,Sweeney,17/9/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/36 Amaranth Av,3,t,590000,PI,RT,18/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,3/36 Amaranth Av,2,h,450000,PI,RT,18/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,61 Cooper Av,3,h,765000,S,Greg,18/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,10 Freemans St,3,h,750000,VB,Greg,18/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,16 Beevers St,3,h,680000,S,Sweeney,19/11/2016,11.1,3025,3,1,3,551,,,Hobsons Bay City Council,-37.8254,144.8514,Western Metropolitan,5132
+Altona North,4/63 Marion St,1,u,,PI,hockingstuart,19/11/2016,11.1,3025,1,1,1,0,46,1970,Hobsons Bay City Council,-37.8355,144.853,Western Metropolitan,5132
+Altona North,150A McIntosh Rd,2,t,510000,SP,Williams,19/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,21 Neal Ct,3,h,770000,SP,hockingstuart,19/11/2016,11.1,3025,3,1,3,602,603,,Hobsons Bay City Council,-37.8327,144.8451,Western Metropolitan,5132
+Altona North,31 Duosa Rd,3,h,923000,S,Greg,22/5/2016,11.1,3025,3,1,2,740,,,Hobsons Bay City Council,-37.8269,144.8455,Western Metropolitan,5132
+Altona North,252 Millers Rd,4,h,693000,SP,Raine&Horne,22/5/2016,11.1,3025,4,2,4,315,170,2008,Hobsons Bay City Council,-37.8391,144.8467,Western Metropolitan,5132
+Altona North,1/156 Chambers Rd,3,h,620000,SP,Hunter,22/8/2016,11.1,3025,5,2,2,276,100,2010,Hobsons Bay City Council,-37.8262,144.8443,Western Metropolitan,5132
+Altona North,19 Cleghorn Av,3,h,800000,S,Buxton,22/8/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,2 Gadsden St,3,h,728500,S,Jas,22/8/2016,11.1,3025,3,1,1,531,157,1960,Hobsons Bay City Council,-37.8277,144.8385,Western Metropolitan,5132
+Altona North,24 Hansen St,3,h,931000,S,hockingstuart,22/8/2016,11.1,3025,3,2,1,590,160,1950,Hobsons Bay City Council,-37.8382,144.8649,Western Metropolitan,5132
+Altona North,4 Prismall St,3,h,988000,S,Sweeney,22/8/2016,11.1,3025,3,1,4,715,,2008,Hobsons Bay City Council,-37.8423,144.8632,Western Metropolitan,5132
+Altona North,1/21 Freemans Rd,3,h,590000,SP,RT,23/4/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,122 McIntosh Rd,3,h,590000,S,Village,23/4/2016,11.1,3025,3,1,2,561,,,Hobsons Bay City Council,-37.8444,144.8491,Western Metropolitan,5132
+Altona North,35 May St,2,h,610000,S,RT,24/9/2016,11.1,3025,2,1,2,691,,,Hobsons Bay City Council,-37.834,144.8553,Western Metropolitan,5132
+Altona North,29 Cyclamen Av,2,h,,PI,Jas,25/2/2017,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,6 Hill St,3,h,815000,S,hockingstuart,25/2/2017,11.1,3025,3,2,3,555,130,1960,Hobsons Bay City Council,-37.8318,144.8388,Western Metropolitan,5132
+Altona North,84 May St,4,h,970000,S,Greg,25/2/2017,11.1,3025,4,1,2,708,,,Hobsons Bay City Council,-37.833,144.8494,Western Metropolitan,5132
+Altona North,81 Fifth Av,4,h,840000,S,hockingstuart,26/7/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,23 Huxtable Av,3,h,840000,S,Sweeney,26/7/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,155 Chambers Rd,4,h,760000,S,Hunter,27/6/2016,11.1,3025,4,1,3,668,,,Hobsons Bay City Council,-37.8262,144.8439,Western Metropolitan,5132
+Altona North,61a First Av,3,h,852500,S,RT,27/6/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,268d Mason St,4,t,847500,S,RT,27/6/2016,11.1,3025,4,3,1,252,,,Hobsons Bay City Council,-37.8393,144.8568,Western Metropolitan,5132
+Altona North,5 Cresser St,4,h,1200000,SP,RT,27/11/2016,11.1,3025,4,1,4,633,158,1960,Hobsons Bay City Council,-37.8375,144.8541,Western Metropolitan,5132
+Altona North,1/33 Fifth Av,3,h,630000,S,RT,27/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,1/8 Fourth Av,3,h,,PI,Hunter,27/11/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,107 McIntosh Rd,3,h,700000,SP,Hunter,27/11/2016,11.1,3025,3,1,1,557,,,Hobsons Bay City Council,-37.8441,144.8505,Western Metropolitan,5132
+Altona North,10 Knapp St,3,h,625000,PI,Hunter,28/5/2016,11.1,3025,3,1,1,536,,,Hobsons Bay City Council,-37.8285,144.8351,Western Metropolitan,5132
+Altona North,4/221 Blackshaws Rd,2,u,292000,S,Jas,28/8/2016,11.1,3025,2,1,1,153,70,1970,Hobsons Bay City Council,-37.8332,144.8649,Western Metropolitan,5132
+Altona North,56a MacDonald Av,3,t,640000,PI,hockingstuart,28/8/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Altona North,126 Sixth Av,3,h,800000,SP,RT,30/7/2016,11.1,3025,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,5132
+Armadale,24 Hume St,3,h,,S,RT,3/9/2016,6.3,3143,2,1,1,305,,,Stonnington City Council,-37.8573,145.0226,Southern Metropolitan,4836
+Armadale,8/19 Mercer Rd,2,u,599000,S,Jellis,3/9/2016,6.3,3143,2,1,1,0,76,1964,Stonnington City Council,-37.8543,145.0262,Southern Metropolitan,4836
+Armadale,1/42 Adelaide St,2,u,550000,VB,Noel,3/12/2016,6.3,3143,2,1,0,861,,,Stonnington City Council,-37.8539,145.0284,Southern Metropolitan,4836
+Armadale,14/71 Denbigh Rd,3,u,995000,S,Marshall,3/12/2016,6.3,3143,3,2,2,0,100,1998,Stonnington City Council,-37.8552,145.016,Southern Metropolitan,4836
+Armadale,4/769 High St,3,t,1205000,S,Jellis,3/12/2016,6.3,3143,3,2,2,101,105,2000,Stonnington City Council,-37.854,145.0135,Southern Metropolitan,4836
+Armadale,12 Huntingtower Rd,3,h,,S,Jellis,3/12/2016,6.3,3143,3,2,2,588,168,1930,Stonnington City Council,-37.8546,145.0245,Southern Metropolitan,4836
+Armadale,28 Lambeth Av,3,h,2675000,S,Marshall,3/12/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,7 Llaneast St,3,h,1939000,S,Jellis,3/12/2016,6.3,3143,3,2,2,296,150,1889,Stonnington City Council,-37.8614,145.0274,Southern Metropolitan,4836
+Armadale,9/55 Northcote Rd,1,u,421500,S,Biggin,3/12/2016,6.3,3143,1,1,0,0,,,Stonnington City Council,-37.853,145.0167,Southern Metropolitan,4836
+Armadale,1/7 Railway Av,2,u,585000,SP,hockingstuart,3/12/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,65 Barkly Av,3,h,2050000,S,Marshall,4/3/2017,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,28 Cambridge St,3,h,1870000,S,Hodges,4/3/2017,6.3,3143,3,1,1,217,116,1888,Stonnington City Council,-37.8592,145.0182,Southern Metropolitan,4836
+Armadale,6 Cambridge St,4,h,,SN,Thomson,4/3/2017,6.3,3143,4,2,1,211,,,Stonnington City Council,-37.859,145.0172,Southern Metropolitan,4836
+Armadale,3/16 Fulton St,2,u,678000,S,hockingstuart,4/3/2017,6.3,3143,2,1,2,0,,,Stonnington City Council,-37.8538,145.0127,Southern Metropolitan,4836
+Armadale,6 Fulton St,2,h,,PI,Marshall,4/3/2017,6.3,3143,2,1,1,183,,,Stonnington City Council,-37.8538,145.0123,Southern Metropolitan,4836
+Armadale,21 Lambeth Av,3,h,,S,Jellis,4/3/2017,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,3/20 Mercer Rd,3,t,1918000,SP,Jellis,4/3/2017,6.3,3143,3,2,2,0,165,1995,Stonnington City Council,-37.8537,145.0267,Southern Metropolitan,4836
+Armadale,7/53 Wattletree Rd,1,u,,SP,hockingstuart,4/3/2017,6.3,3143,1,1,0,881,,,Stonnington City Council,-37.8614,145.0222,Southern Metropolitan,4836
+Armadale,1/77 Wattletree Rd,2,u,660000,SP,hockingstuart,4/3/2017,6.3,3143,2,1,1,0,,,Stonnington City Council,-37.8619,145.0257,Southern Metropolitan,4836
+Armadale,12 Willis St,3,h,2050000,S,Marshall,4/3/2017,6.3,3143,3,2,1,205,116,1910,Stonnington City Council,-37.8574,145.0281,Southern Metropolitan,4836
+Armadale,12 Alleyne Av,4,h,,S,RT,4/6/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,3/10 Denbigh Rd,2,u,,SP,hockingstuart,4/6/2016,6.3,3143,2,1,1,0,65,1970,Stonnington City Council,-37.8596,145.0156,Southern Metropolitan,4836
+Armadale,8/71 Denbigh Rd,2,u,700000,VB,Jellis,4/6/2016,6.3,3143,2,1,2,0,,,Stonnington City Council,-37.8552,145.016,Southern Metropolitan,4836
+Armadale,11/17 Myamyn St,2,u,3625000,S,Jellis,4/6/2016,6.3,3143,3,2,2,0,,2006,Stonnington City Council,-37.8555,145.0291,Southern Metropolitan,4836
+Armadale,526 Orrong Rd,4,h,3000000,VB,Jellis,4/6/2016,6.3,3143,4,2,2,1581,,1934,Stonnington City Council,-37.858,145.0111,Southern Metropolitan,4836
+Armadale,37 Barkly Av,2,h,1930000,S,Jellis,6/8/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,553 Dandenong Rd,5,h,1525000,PI,Jellis,7/5/2016,6.3,3143,8,2,2,693,,,Stonnington City Council,-37.8638,145.0229,Southern Metropolitan,4836
+Armadale,17 Egerton Rd,4,h,,S,Marshall,7/5/2016,6.3,3143,4,1,2,500,,,Stonnington City Council,-37.8623,145.0223,Southern Metropolitan,4836
+Armadale,9/19 Mercer Rd,3,u,735000,PI,Marshall,7/5/2016,6.3,3143,3,2,1,2113,14,1970,Stonnington City Council,-37.8543,145.0262,Southern Metropolitan,4836
+Armadale,6/26 Mercer Rd,2,u,825000,S,Jellis,7/5/2016,6.3,3143,2,1,1,0,,,Stonnington City Council,-37.8528,145.0268,Southern Metropolitan,4836
+Armadale,538a Orrong Rd,3,t,1586000,S,RT,7/5/2016,6.3,3143,2,2,2,246,,,Stonnington City Council,-37.8566,145.0116,Southern Metropolitan,4836
+Armadale,557 Orrong Rd,4,h,,S,Jellis,7/5/2016,6.3,3143,4,2,2,369,176,1930,Stonnington City Council,-37.8548,145.0113,Southern Metropolitan,4836
+Armadale,5/68 Rose St,3,t,,S,Jellis,7/5/2016,6.3,3143,2,2,1,175,158,1970,Stonnington City Council,-37.8515,145.02,Southern Metropolitan,4836
+Armadale,11/38 Wattletree Rd,2,u,,S,hockingstuart,7/5/2016,6.3,3143,2,1,1,0,65,1970,Stonnington City Council,-37.8613,145.0184,Southern Metropolitan,4836
+Armadale,24 Lambeth Av,5,h,,S,Marshall,7/11/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,18/41 Kooyong Rd,2,u,645000,S,Marshall,8/10/2016,6.3,3143,3,1,1,0,,1960,Stonnington City Council,-37.8596,145.0198,Southern Metropolitan,4836
+Armadale,10 William St,1,h,1435000,SP,Jellis,8/10/2016,6.3,3143,2,2,1,144,107,1900,Stonnington City Council,-37.8564,145.0228,Southern Metropolitan,4836
+Armadale,11 Adelaide St,4,h,,SN,hockingstuart,10/9/2016,6.3,3143,3,4,2,662,292,1920,Stonnington City Council,-37.8549,145.0276,Southern Metropolitan,4836
+Armadale,15/405 Dandenong Rd,1,u,280000,PI,hockingstuart,10/9/2016,6.3,3143,1,1,1,0,38,1975,Stonnington City Council,-37.8619,145.0185,Southern Metropolitan,4836
+Armadale,1/2 Armadale St,1,u,400000,PI,hockingstuart,10/12/2016,6.3,3143,1,1,1,0,,,Stonnington City Council,-37.8605,145.0185,Southern Metropolitan,4836
+Armadale,54 Denbigh Rd,4,h,,SP,Jellis,10/12/2016,6.3,3143,4,2,2,551,208,1890,Stonnington City Council,-37.8566,145.0161,Southern Metropolitan,4836
+Armadale,4/20 Mercer Rd,2,h,1780000,S,Marshall,10/12/2016,6.3,3143,2,2,2,0,,,Stonnington City Council,-37.8537,145.0267,Southern Metropolitan,4836
+Armadale,47 Northcote Rd,3,h,,SP,Jellis,10/12/2016,6.3,3143,3,2,0,246,204,1890,Stonnington City Council,-37.8533,145.0169,Southern Metropolitan,4836
+Armadale,8/58 Sutherland Rd,2,u,592500,S,hockingstuart,10/12/2016,6.3,3143,2,1,1,0,73,1970,Stonnington City Council,-37.8574,145.0174,Southern Metropolitan,4836
+Armadale,6A Munro St,3,h,,S,Jellis,12/11/2016,6.3,3143,3,2,1,242,143,1915,Stonnington City Council,-37.8534,145.0185,Southern Metropolitan,4836
+Armadale,40 New St,2,h,1210000,S,Marshall,12/11/2016,6.3,3143,2,1,0,249,96,1910,Stonnington City Council,-37.8543,145.016,Southern Metropolitan,4836
+Armadale,35 Northcote Rd,4,h,2801000,S,Marshall,12/11/2016,6.3,3143,4,2,2,624,222,1900,Stonnington City Council,-37.8536,145.0173,Southern Metropolitan,4836
+Armadale,7/17 Myamyn St,3,u,,SP,Marshall,13/8/2016,6.3,3143,3,2,3,0,203,2006,Stonnington City Council,-37.8555,145.0291,Southern Metropolitan,4836
+Armadale,595 Orrong Rd,3,h,,S,Jellis,13/8/2016,6.3,3143,2,2,2,292,146,1910,Stonnington City Council,-37.8523,145.0116,Southern Metropolitan,4836
+Armadale,3 Wattletree Rd,3,h,,SN,Gary,14/5/2016,6.3,3143,3,2,1,482,182,1930,Stonnington City Council,-37.8606,145.0157,Southern Metropolitan,4836
+Armadale,7/53 Wattletree Rd,1,u,390000,S,Jellis,14/5/2016,6.3,3143,1,1,0,881,,,Stonnington City Council,-37.8614,145.0222,Southern Metropolitan,4836
+Armadale,2b Denbigh Rd,3,h,,S,Jellis,15/10/2016,6.3,3143,3,2,1,228,111,1915,Stonnington City Council,-37.8603,145.0155,Southern Metropolitan,4836
+Armadale,791 High St,3,h,1800000,PI,RT,15/10/2016,6.3,3143,3,2,2,405,121,1910,Stonnington City Council,-37.8545,145.0145,Southern Metropolitan,4836
+Armadale,22 Lambeth Av,4,h,,SN,hockingstuart,15/10/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,25 Llaneast St,4,h,2200000,PI,Jellis,15/10/2016,6.3,3143,4,1,2,495,163,1900,Stonnington City Council,-37.8613,145.0264,Southern Metropolitan,4836
+Armadale,5 Alleyne Av,4,h,,S,Jellis,16/4/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,8/569 Orrong Rd,1,u,324000,S,Jellis,16/4/2016,6.3,3143,1,1,1,0,,,Stonnington City Council,-37.8537,145.0114,Southern Metropolitan,4836
+Armadale,19 Sutherland Rd,3,h,,S,Marshall,16/4/2016,6.3,3143,3,1,2,451,,,Stonnington City Council,-37.8593,145.0167,Southern Metropolitan,4836
+Armadale,17/579 Dandenong Rd,2,u,,S,hockingstuart,16/7/2016,6.3,3143,2,1,1,0,80,1966,Stonnington City Council,-37.8646,145.0247,Southern Metropolitan,4836
+Armadale,11/26 Gladstone Av,2,u,,S,hockingstuart,16/7/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,2/1 Munro St,3,u,,SP,Marshall,16/7/2016,6.3,3143,3,1,4,0,,,Stonnington City Council,-37.853,145.0181,Southern Metropolitan,4836
+Armadale,1 Cambridge St,2,h,,S,Jellis,17/9/2016,6.3,3143,3,1,2,230,,1888,Stonnington City Council,-37.8593,145.017,Southern Metropolitan,4836
+Armadale,367 Dandenong Rd,6,h,5525000,S,Marshall,17/9/2016,6.3,3143,5,3,4,1491,516,1935,Stonnington City Council,-37.8602,145.013,Southern Metropolitan,4836
+Armadale,10 Egerton Rd,4,h,,S,Jellis,17/9/2016,6.3,3143,2,2,2,449,232,1900,Stonnington City Council,-37.8628,145.0226,Southern Metropolitan,4836
+Armadale,34a Rose St,2,h,1125000,S,RT,17/9/2016,6.3,3143,3,1,2,169,,,Stonnington City Council,-37.851,145.0161,Southern Metropolitan,4836
+Armadale,42 Rose St,3,h,2250000,S,Marshall,17/9/2016,6.3,3143,3,3,1,301,,,Stonnington City Council,-37.8511,145.0167,Southern Metropolitan,4836
+Armadale,12 Auburn Gr,3,h,2360000,S,hockingstuart,18/3/2017,6.3,3143,3,2,0,336,,,Stonnington City Council,-37.8558,145.015,Southern Metropolitan,4836
+Armadale,31 Hume St,2,h,1900000,VB,Jellis,18/3/2017,6.3,3143,2,2,0,207,,,Stonnington City Council,-37.8571,145.0224,Southern Metropolitan,4836
+Armadale,10/581 Orrong Rd,1,u,440000,SP,Jellis,18/3/2017,6.3,3143,1,1,1,0,53,1970,Stonnington City Council,-37.8531,145.0115,Southern Metropolitan,4836
+Armadale,5/8 Sutherland Rd,2,u,,SP,hockingstuart,18/3/2017,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,5/92 Wattletree Rd,2,u,,SN,Thomson,18/3/2017,6.3,3143,2,1,1,734,,2006,Stonnington City Council,-37.8623,145.0262,Southern Metropolitan,4836
+Armadale,7/579 Dandenong Rd,2,u,490000,PI,Ray,18/6/2016,6.3,3143,2,1,1,0,,1966,Stonnington City Council,-37.8646,145.0247,Southern Metropolitan,4836
+Armadale,1/13 Denbigh Rd,3,t,,PI,Marshall,18/6/2016,6.3,3143,3,2,2,0,135,1998,Stonnington City Council,-37.859,145.0153,Southern Metropolitan,4836
+Armadale,19 Glassford St,3,h,2365000,S,Marshall,18/6/2016,6.3,3143,3,2,1,316,,,Stonnington City Council,-37.8521,145.019,Southern Metropolitan,4836
+Armadale,14 New St,3,h,1300000,VB,Jellis,18/6/2016,6.3,3143,2,1,2,212,106,1900,Stonnington City Council,-37.8542,145.0149,Southern Metropolitan,4836
+Armadale,9/38 Northcote Rd,2,u,,SP,Jellis,18/6/2016,6.3,3143,2,1,1,0,67,1970,Stonnington City Council,-37.8531,145.0173,Southern Metropolitan,4836
+Armadale,7/501 Orrong Rd,3,u,732000,S,Gary,18/6/2016,6.3,3143,3,2,2,0,,,Stonnington City Council,-37.8597,145.0104,Southern Metropolitan,4836
+Armadale,6/51 Armadale St,2,u,704000,SP,Greg,19/11/2016,6.3,3143,2,1,1,0,74,1969,Stonnington City Council,-37.8573,145.0186,Southern Metropolitan,4836
+Armadale,30 Barkly Av,4,h,,S,Jellis,19/11/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,5/31 Inverness Av,2,u,,S,Jellis,19/11/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,12/41 Kooyong Rd,2,u,620000,VB,Marshall,19/11/2016,6.3,3143,3,1,1,0,98,1970,Stonnington City Council,-37.8596,145.0198,Southern Metropolitan,4836
+Armadale,63 Denbigh Rd,3,h,1900000,S,Marshall,22/5/2016,6.3,3143,3,1,2,328,108,1900,Stonnington City Council,-37.8559,145.0158,Southern Metropolitan,4836
+Armadale,1 Derby St,3,h,,S,Marshall,22/5/2016,6.3,3143,3,2,2,0,,,Stonnington City Council,-37.8512,145.0207,Southern Metropolitan,4836
+Armadale,5/2 Mercer Rd,3,t,,S,Kay,22/5/2016,6.3,3143,2,3,2,0,,,Stonnington City Council,-37.8557,145.0264,Southern Metropolitan,4836
+Armadale,9/60 Wattletree Rd,2,u,,S,hockingstuart,22/5/2016,6.3,3143,2,2,1,2659,,,Stonnington City Council,-37.8616,145.0211,Southern Metropolitan,4836
+Armadale,13/56 Sutherland Rd,1,u,315000,SP,Fletchers,22/8/2016,6.3,3143,1,1,1,0,,,Stonnington City Council,-37.8575,145.0174,Southern Metropolitan,4836
+Armadale,12 Baldwin St,3,h,,SP,Marshall,23/4/2016,6.3,3143,2,1,0,151,80,1880,Stonnington City Council,-37.8549,145.0219,Southern Metropolitan,4836
+Armadale,48 Barkly Av,3,h,1992000,S,Jellis,23/4/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,7/22 Derby St,1,u,450000,PI,hockingstuart,24/9/2016,6.3,3143,1,1,1,0,,,Stonnington City Council,-37.8509,145.0203,Southern Metropolitan,4836
+Armadale,10/51 Armadale St,2,u,710000,S,Jellis,25/2/2017,6.3,3143,2,1,1,2471,80,1970,Stonnington City Council,-37.8573,145.0186,Southern Metropolitan,4836
+Armadale,2/377 Dandenong Rd,2,u,872000,S,Jellis,25/2/2017,6.3,3143,2,1,1,1194,,1953,Stonnington City Council,-37.8604,145.0147,Southern Metropolitan,4836
+Armadale,1/14 Denbigh Rd,2,u,598000,S,hockingstuart,25/2/2017,6.3,3143,2,1,1,0,88,1970,Stonnington City Council,-37.8593,145.0156,Southern Metropolitan,4836
+Armadale,15 Sutherland Rd,3,h,,SN,Kay,25/2/2017,6.3,3143,3,2,2,459,180,1890,Stonnington City Council,-37.8595,145.0166,Southern Metropolitan,4836
+Armadale,75 Sutherland Rd,3,h,1285000,S,Marshall,25/2/2017,6.3,3143,3,1,2,186,80,1920,Stonnington City Council,-37.8554,145.0173,Southern Metropolitan,4836
+Armadale,61 Union St,4,h,3660000,S,Jellis,25/2/2017,6.3,3143,4,3,2,421,,,Stonnington City Council,-37.8593,145.0275,Southern Metropolitan,4836
+Armadale,30 Willis St,3,h,,VB,Marshall,25/2/2017,6.3,3143,3,1,2,251,149,1920,Stonnington City Council,-37.8572,145.0275,Southern Metropolitan,4836
+Armadale,1/770 Malvern Rd,2,u,,S,hockingstuart,26/7/2016,6.3,3143,2,1,1,0,,,Stonnington City Council,-37.8498,145.0145,Southern Metropolitan,4836
+Armadale,1/403 Dandenong Rd,2,u,520000,S,hockingstuart,27/6/2016,6.3,3143,1,1,1,0,76,1970,Stonnington City Council,-37.8618,145.0183,Southern Metropolitan,4836
+Armadale,7 Lambeth Av,4,h,2760000,S,Marshall,27/6/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,3 Alleyne Av,4,h,,S,Jellis,27/11/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,10/507 Dandenong Rd,2,u,690000,VB,Jellis,27/11/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,44 Denbigh Rd,4,h,3625000,S,Jellis,27/11/2016,6.3,3143,4,1,2,709,251,1900,Stonnington City Council,-37.8574,145.016,Southern Metropolitan,4836
+Armadale,44 Hampden Rd,4,h,4200000,VB,Kay,27/11/2016,6.3,3143,4,3,3,563,333,2000,Stonnington City Council,-37.8582,145.0138,Southern Metropolitan,4836
+Armadale,3/769 High St,3,t,1101000,S,Jellis,27/11/2016,6.3,3143,3,1,2,103,3,2000,Stonnington City Council,-37.8542,145.0135,Southern Metropolitan,4836
+Armadale,4 Mercer Rd,3,h,3512500,S,Marshall,27/11/2016,6.3,3143,3,2,2,617,285,1998,Stonnington City Council,-37.8557,145.0264,Southern Metropolitan,4836
+Armadale,4/38 Northcote Rd,2,u,,S,hockingstuart,27/11/2016,6.3,3143,2,1,1,0,,,Stonnington City Council,-37.8531,145.0173,Southern Metropolitan,4836
+Armadale,4/576 Orrong Rd,2,u,,SN,Kay,27/11/2016,6.3,3143,2,1,2,0,112,2012,Stonnington City Council,-37.8539,145.0119,Southern Metropolitan,4836
+Armadale,17 Kooyong Rd,4,h,2000000,PI,Marshall,28/5/2016,6.3,3143,4,3,4,544,,,Stonnington City Council,-37.8611,145.0195,Southern Metropolitan,4836
+Armadale,896 Malvern Rd,3,h,,S,Kay,28/5/2016,6.3,3143,3,3,1,0,,,Stonnington City Council,-37.8505,145.0205,Southern Metropolitan,4836
+Armadale,1/31 Mercer Rd,3,u,869000,S,Jellis,28/5/2016,6.3,3143,2,1,1,0,91,1940,Stonnington City Council,-37.853,145.0264,Southern Metropolitan,4836
+Armadale,8/507 Dandenong Rd,2,u,577000,S,Jellis,28/8/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,8 Derby St,3,h,,SP,Marshall,28/8/2016,6.3,3143,3,2,1,196,155,1990,Stonnington City Council,-37.8509,145.0208,Southern Metropolitan,4836
+Armadale,1/6 Elm Gr,2,u,,S,hockingstuart,28/8/2016,6.3,3143,2,1,4,0,,,Stonnington City Council,-37.8525,145.0159,Southern Metropolitan,4836
+Armadale,37 Lambeth Av,3,h,2865000,S,Marshall,28/8/2016,6.3,3143,,,,,,,Stonnington City Council,,,Southern Metropolitan,4836
+Armadale,16 Llaneast St,5,h,2810000,S,Marshall,28/8/2016,6.3,3143,5,2,2,617,,,Stonnington City Council,-37.8611,145.0271,Southern Metropolitan,4836
+Armadale,2/532 Orrong Rd,2,u,565000,S,Ray,28/8/2016,6.3,3143,3,1,1,0,,,Stonnington City Council,-37.8573,145.0112,Southern Metropolitan,4836
+Armadale,5/555 Orrong Rd,1,u,567000,S,hockingstuart,28/8/2016,6.3,3143,1,1,1,0,53,2013,Stonnington City Council,-37.8549,145.0113,Southern Metropolitan,4836
+Armadale,3/50 Denbigh Rd,2,u,546000,SP,hockingstuart,30/7/2016,6.3,3143,2,0,0,0,,,Stonnington City Council,-37.8568,145.0161,Southern Metropolitan,4836
+Armadale,11 Egerton Rd,2,h,,SN,hockingstuart,30/7/2016,6.3,3143,3,1,1,266,,,Stonnington City Council,-37.8626,145.0222,Southern Metropolitan,4836
+Armadale,7/844 Malvern Rd,2,u,471500,S,Ray,30/7/2016,6.3,3143,2,1,1,0,,1980,Stonnington City Council,-37.8503,145.0185,Southern Metropolitan,4836
+Ascot Vale,24 Ayr St,3,h,,S,Jellis,3/9/2016,5.9,3032,3,1,2,305,135,1910,Moonee Valley City Council,-37.7799,144.9296,Western Metropolitan,6567
+Ascot Vale,2/43 Roxburgh St,2,u,455000,S,Nelson,3/9/2016,5.9,3032,3,1,2,0,,,Moonee Valley City Council,-37.7756,144.9165,Western Metropolitan,6567
+Ascot Vale,30 Rothwell St,3,h,940000,S,Nelson,3/12/2016,5.9,3032,3,1,2,298,108,1920,Moonee Valley City Council,-37.7777,144.9195,Western Metropolitan,6567
+Ascot Vale,9/5 Rothwell St,2,u,467000,SP,Brad,3/12/2016,5.9,3032,2,1,1,0,62,1980,Moonee Valley City Council,-37.7761,144.9201,Western Metropolitan,6567
+Ascot Vale,47 Union Rd,3,h,,S,Brad,3/12/2016,5.9,3032,3,1,2,271,111,1900,Moonee Valley City Council,-37.7783,144.9149,Western Metropolitan,6567
+Ascot Vale,42 Archer Av,3,h,895000,S,Nelson,4/2/2016,5.9,3032,,,,,,,Moonee Valley City Council,,,Western Metropolitan,6567
+Ascot Vale,7 Francis St,3,h,1380000,SP,Nelson,4/3/2017,5.9,3032,3,2,2,277,174,1910,Moonee Valley City Council,-37.7777,144.9221,Western Metropolitan,6567
+Ascot Vale,2/21 Harold St,2,u,490000,VB,Jellis,4/3/2017,5.9,3032,2,1,1,423,62,1970,Moonee Valley City Council,-37.7736,144.9015,Western Metropolitan,6567
+Ascot Vale,44 The Parade,4,h,1850000,S,Brad,4/3/2017,5.9,3032,4,3,1,478,270,1900,Moonee Valley City Council,-37.7729,144.9179,Western Metropolitan,6567
+Ascot Vale,97 Walter St,3,h,1284000,S,Woodards,4/3/2017,5.9,3032,3,1,2,623,,1938,Moonee Valley City Council,-37.7758,144.9089,Western Metropolitan,6567
+Ascot Vale,98 Epsom Rd,3,h,971000,SP,Nelson,4/6/2016,5.9,3032,3,2,2,285,128,1900,Moonee Valley City Council,-37.775,144.9091,Western Metropolitan,6567
+Ascot Vale,8 Geddes St,2,h,710000,PI,Nelson,4/6/2016,5.9,3032,2,1,1,214,77,1890,Moonee Valley City Council,-37.7776,144.9142,Western Metropolitan,6567
+Ascot Vale,75 Maribyrnong Rd,6,h,2425000,PI,Brad,4/6/2016,5.9,3032,6,3,2,1014,435,1887,Moonee Valley City Council,-37.7721,144.9184,Western Metropolitan,6567
+Ascot Vale,119 Roseberry St,2,h,750000,SP,Maddison,4/6/2016,5.9,3032,2,1,1,226,92,1920,Moonee Valley City Council,-37.7745,144.9093,Western Metropolitan,6567
+Ascot Vale,25 Station Av,2,h,840000,S,Brad,4/6/2016,5.9,3032,,,,,,,Moonee Valley City Council,,,Western Metropolitan,6567
+Ascot Vale,10 Fenton St,2,h,1053000,S,Nelson,6/8/2016,5.9,3032,2,1,1,269,109,1900,Moonee Valley City Council,-37.7748,144.929,Western Metropolitan,6567
