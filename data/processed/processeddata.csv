@@ -1,0 +1,11 @@
+,Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+0,Abbotsford,68 Studley St,2.0,h,,SS,Jellis,3/9/2016,2.5,3067.0,2.0,1.0,1.0,126.0,,,Yarra City Council,-37.8014,144.9958,Northern Metropolitan,4019.0
+1,Abbotsford,85 Turner St,2.0,h,1480000.0,S,Biggin,3/12/2016,2.5,3067.0,2.0,1.0,1.0,202.0,,,Yarra City Council,-37.7996,144.9984,Northern Metropolitan,4019.0
+2,Abbotsford,25 Bloomburg St,2.0,h,1035000.0,S,Biggin,4/2/2016,2.5,3067.0,2.0,1.0,0.0,156.0,79.0,1900.0,Yarra City Council,-37.8079,144.9934,Northern Metropolitan,4019.0
+3,Abbotsford,18/659 Victoria St,3.0,u,,VB,Rounds,4/2/2016,2.5,3067.0,3.0,2.0,1.0,0.0,,,Yarra City Council,-37.8114,145.0116,Northern Metropolitan,4019.0
+4,Abbotsford,5 Charles St,3.0,h,1465000.0,SP,Biggin,4/3/2017,2.5,3067.0,3.0,2.0,0.0,134.0,150.0,1900.0,Yarra City Council,-37.8093,144.9944,Northern Metropolitan,4019.0
+5,Abbotsford,40 Federation La,3.0,h,850000.0,PI,Biggin,4/3/2017,2.5,3067.0,3.0,2.0,1.0,94.0,,,Yarra City Council,-37.7969,144.9969,Northern Metropolitan,4019.0
+6,Abbotsford,55a Park St,4.0,h,1600000.0,VB,Nelson,4/6/2016,2.5,3067.0,3.0,1.0,2.0,120.0,142.0,2014.0,Yarra City Council,-37.8072,144.9941,Northern Metropolitan,4019.0
+7,Abbotsford,16 Maugie St,4.0,h,,SN,Nelson,6/8/2016,2.5,3067.0,3.0,2.0,2.0,400.0,220.0,2006.0,Yarra City Council,-37.7965,144.9965,Northern Metropolitan,4019.0
+8,Abbotsford,53 Turner St,2.0,h,,S,Biggin,6/8/2016,2.5,3067.0,4.0,1.0,2.0,201.0,,1900.0,Yarra City Council,-37.7995,144.9974,Northern Metropolitan,4019.0
+9,Abbotsford,99 Turner St,2.0,h,,S,Collins,6/8/2016,2.5,3067.0,3.0,2.0,1.0,202.0,,1900.0,Yarra City Council,-37.7996,144.9989,Northern Metropolitan,4019.0
